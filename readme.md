@@ -1,0 +1,1 @@
+Esse foi o primeiro exercicio que eu fiz sobre: Criar uma página pessoal simples com HTML + CSS, responsiva (desktop e mobile), e enviar para o GitHub.
